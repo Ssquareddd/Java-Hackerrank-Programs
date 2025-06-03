@@ -25,6 +25,7 @@ public class Grade_calculator {
             grade = 'F';
         }
         System.out.println(name + "grade is :" + grade);
+        sc.close();
 
 
     }
